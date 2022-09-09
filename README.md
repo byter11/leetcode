@@ -13,6 +13,6 @@ cat questions.json | jq -r '.[] | select(.difficulty.level == 3) | "### [\(.stat
 ```
 
 ## Links
-[Easy](easy.md)
-[Medium](medium.md)
-[Hard](hard.md)
+* [Easy](easy.md)
+* [Medium](medium.md)
+* [Hard](hard.md)
